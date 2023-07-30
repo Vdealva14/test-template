@@ -6,6 +6,4 @@ I am a UTSA student currently majoring in *Business Administration in CyberSecur
 </div>
 <p> </p>
 <div id="badges">
-
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+I bit of myself, currently a Second Class Information System Technician in the US Navy. Really have learned alot and enjoyed this course. 
